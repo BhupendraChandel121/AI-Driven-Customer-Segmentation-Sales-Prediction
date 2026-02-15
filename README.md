@@ -11,5 +11,4 @@ Tech Stack
 - Scikit-learn
 - Jupyter Notebook
 
-
 Helps businesses understand customer segments and forecast sales trends.
